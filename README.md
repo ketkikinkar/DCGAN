@@ -33,13 +33,16 @@ This notebook guides you through the process of building a DCGAN model to genera
 ## Results
 
 ### 0 Epochs
+![alt text](https://github.com/ZoreAnuj/DCGAN/blob/main/Oepochs.png)
 
 ### 100 Epochs
 ![alt text](https://github.com/ZoreAnuj/DCGAN/blob/main/generated-images-0100.png)
 
 ### Loss Vs Epochs
+![alt text](https://github.com/ZoreAnuj/DCGAN/blob/main/loss.png)
 
 ### Real vs Fake Score
+![alt text](https://github.com/ZoreAnuj/DCGAN/blob/main/score.png)
 
 ## Reference
 This notebook draws inspiration from Lilian Weng's detailed article on GANs, which provides an in-depth look into the theory and applications of GANs. You can explore the article [here](https://lilianweng.github.io/posts/2017-08-20-gan/).
