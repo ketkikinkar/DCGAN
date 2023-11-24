@@ -8,6 +8,8 @@ Generative Adversarial Networks (GANs), a novel concept introduced by Ian Goodfe
 
 GANs have been particularly impactful in the realm of image generation. The introduction of Deep Convolutional GANs (DCGANs) marked a significant advancement, employing deep convolutional networks to enhance the quality and efficiency of generative tasks. DCGANs have shown remarkable performance in various domains, particularly in generating intricate and visually appealing images like those of anime characters.
 
+![alt text](https://github.com/carpedm20/DCGAN-tensorflow/raw/master/DCGAN.png)
+
 ### Understanding the Core Concepts
 - **Generative Models:** GANs are generative models that learn to create data resembling a given dataset. They can generate images, music, speech, or text.
 - **Discriminator and Generator:** The discriminator assesses the authenticity of data, while the generator produces synthetic data. The generator's objective is to fool the discriminator into thinking its output is real.
