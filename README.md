@@ -1,7 +1,11 @@
 
 # Generate Anime Characters using DCGAN in PyTorch
 
-This Jupyter notebook provides a comprehensive guide to generating anime characters using Deep Convolutional Generative Adversarial Networks (DCGAN) implemented in PyTorch.
+This Jupyter Notebook provides a comprehensive guide to generating anime characters using Deep Convolutional Generative Adversarial Networks (DCGAN) implemented in PyTorch.
+
+# Members
+
+Ketki Kinkar (https://www.linkedin.com/in/ketkikinkar/)
 
 ## Introduction to GANs
 Generative Adversarial Networks (GANs), a novel concept introduced by Ian Goodfellow et al., in 2014, represent a significant milestone in the field of generative models in machine learning. GANs involve two neural networks, a generator and a discriminator, that compete against each other. The generator aims to produce data that is indistinguishable from genuine data, while the discriminator's job is to differentiate between real and generated data. This competitive process leads to the generation of high-quality, realistic data.
