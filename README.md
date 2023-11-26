@@ -4,6 +4,7 @@
 This Jupyter Notebook provides a comprehensive guide to generating anime characters using Deep Convolutional Generative Adversarial Networks (DCGAN) implemented in PyTorch.
 
 ## Members
+Anuj Zore (https://www.linkedin.com/in/anuj-zore-806b3112a/)
 
 Ketki Kinkar (https://www.linkedin.com/in/ketkikinkar/)
 
